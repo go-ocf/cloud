@@ -35,7 +35,7 @@ require (
 	go.uber.org/zap v1.18.1
 	golang.org/x/oauth2 v0.0.0-20210628180205-a41e5a781914
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	google.golang.org/genproto v0.0.0-20210707164411-8c882eb9abba
+	google.golang.org/genproto d411969a0d9a
 	google.golang.org/grpc v1.39.0
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.1.0
 	google.golang.org/protobuf v1.27.1
